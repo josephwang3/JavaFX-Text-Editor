@@ -6,8 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TicTacToe",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/Work/Downloads/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "TicTacToe",
+            "projectName": "JavaFXTest_cde4a777"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowCircle",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/Work/Downloads/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "ShowCircle",
+            "projectName": "JavaFXTest_cde4a777"
+        },
+        {
+            "type": "java",
+            "name": "Launch TextEditor",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/Work/Downloads/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "TextEditor",
+            "projectName": "JavaFXTest_cde4a777"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestJavaFX",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/Work/Downloads/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "TestJavaFX",
+            "projectName": "JavaFXTest_cde4a777"
+        },
+        {
+            "type": "java",
             "name": "Launch MyGUI",
             "request": "launch",
+            "vmArgs": "--module-path C:/Users/Work/Downloads/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
             "mainClass": "MyGUI",
             "projectName": "JavaFXTest_cde4a777"
         },
