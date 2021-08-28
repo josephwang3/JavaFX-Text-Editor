@@ -1,3 +1,7 @@
+// Joseph Wang
+// 5/1/2021
+// Practice JavaFX program to display a circle as the base of an emoji
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.layout.Pane;

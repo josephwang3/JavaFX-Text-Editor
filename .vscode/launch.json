@@ -6,6 +6,21 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TicTacToe",
+            "request": "launch",
+            "mainClass": "TicTacToe",
+            "projectName": "JavaFXTest_b4b1aa0d"
+        },
+        {
+            "type": "java",
+            "name": "Launch TextEditor",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/Work/Downloads/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "TextEditor",
+            "projectName": "JavaFXTest_b4b1aa0d"
+        },
+        {
+            "type": "java",
             "name": "Launch FileChooser_1",
             "request": "launch",
             "vmArgs": "--module-path C:/Users/Work/Downloads/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",

@@ -1,3 +1,9 @@
+// Joseph Wang
+// 5/1/2021
+// Basic text editor implemented using JavaFX
+// Supports features such as opening a new window, opening an existing file, and saving a file
+// Has line numbers and a close confirmation window
+
 import java.awt.Toolkit;
 
 import java.io.File;

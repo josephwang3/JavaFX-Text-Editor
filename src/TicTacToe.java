@@ -1,3 +1,7 @@
+// Joseph Wang
+// 5/1/2021
+// Practice JavaFX program to play Tic Tac Toe
+
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.scene.Scene;

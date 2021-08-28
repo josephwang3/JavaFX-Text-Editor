@@ -1,3 +1,7 @@
+// Joseph Wang
+// 5/1/2021
+// Practice JavaFX program to test different functionality
+
 import java.io.File;
 import javafx.application.Application;
 import javafx.scene.Scene;

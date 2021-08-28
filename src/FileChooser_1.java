@@ -1,5 +1,7 @@
-// Java Program to create fileChooser
-// and add it to the stage
+// Joseph Wang
+// 5/1/2021
+// Practice Java program to create fileChooser and add it to the stage
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
